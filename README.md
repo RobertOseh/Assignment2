@@ -9,3 +9,4 @@ I have now sucessfully pulled both the images from the databse to display on the
 my sign up page is fully functional as it signs up a user using the specified details and it asks for and it saves it to the database. I am now working on sorting out my login page so that it pulls them details from the server.
 My login page now interacts with the database and i have gotten it to pull the detils from the server. There are still minor issues but it works and a "User has sucessfully logged in" pops up usuing javascript.I am now working on correcting my error 404 pagae and other things.
 I have now gotten the password and email from the database sucessfully to log in the user.   
+https://vesta.uclan.ac.uk/~ROOseh/assignment_2/index.php
