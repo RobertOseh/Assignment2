@@ -8,3 +8,4 @@ I have pulled my products from the server using the necessary SELECT statement, 
 I have now sucessfully pulled both the images from the databse to display on the the products page and also pulled the live offers from the database as well. I have created a sign up page but what i need to do is allow it to be able to log a user in and display that he is logged in.
 my sign up page is fully functional as it signs up a user using the specified details and it asks for and it saves it to the database. I am now working on sorting out my login page so that it pulls them details from the server.
 My login page now interacts with the database and i have gotten it to pull the detils from the server. There are still minor issues but it works and a "User has sucessfully logged in" pops up usuing javascript.I am now working on correcting my error 404 pagae and other things.
+I have now gotten the password and email from the database sucessfully to log in the user.   
